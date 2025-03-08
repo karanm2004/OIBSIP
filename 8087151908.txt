@@ -1,0 +1,6 @@
+Initial deposit: 5000.0 on 2025-03-08 19:47:22
+Transferred 1000.0 to account 6061258041 on 2025-03-08 19:48:18
+Transferred 230.0 to account 6061258041 on 2025-03-08 19:48:46
+Received 123.0 from account 6061258041 on 2025-03-08 19:52:56
+Deposited 2000.0 on 2025-03-08 23:58:38
+Transferred 2536.0 to account 6061258041 on 2025-03-08 23:59:17

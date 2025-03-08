@@ -1,0 +1,7 @@
+Initial deposit: 2000.0 on 2025-03-08 19:47:35
+Received 1000.0 from account 8087151908 on 2025-03-08 19:48:18
+Received 230.0 from account 8087151908 on 2025-03-08 19:48:46
+Withdrawn 1234.0 on 2025-03-08 19:50:06
+Transferred 123.0 to account 8087151908 on 2025-03-08 19:52:56
+Received 2536.0 from account 8087151908 on 2025-03-08 23:59:17
+Withdrawn 2314.0 on 2025-03-09 00:00:26
